@@ -7,6 +7,6 @@ Differences with respect to the original project.
 * Additional feature for the Logistic Regression model based on the:
     * country,
     * city (ToDo),
-    * timestamp data (ToDo)
+    * timestamp data
 * ToDo: Find another dataset big enough that it will also enable train/test/validation split
  
